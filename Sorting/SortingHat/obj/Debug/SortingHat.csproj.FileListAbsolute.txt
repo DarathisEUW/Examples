@@ -1,0 +1,13 @@
+c:\users\harry\documents\visual studio 2015\Projects\SortingHat\bin\Debug\SortingHat.exe.config
+c:\users\harry\documents\visual studio 2015\Projects\SortingHat\bin\Debug\SortingHat.exe
+c:\users\harry\documents\visual studio 2015\Projects\SortingHat\bin\Debug\SortingHat.pdb
+c:\users\harry\documents\visual studio 2015\Projects\SortingHat\obj\Debug\SortingHat.Sort.resources
+c:\users\harry\documents\visual studio 2015\Projects\SortingHat\obj\Debug\SortingHat.Properties.Resources.resources
+c:\users\harry\documents\visual studio 2015\Projects\SortingHat\obj\Debug\SortingHat.csproj.GenerateResource.Cache
+c:\users\harry\documents\visual studio 2015\Projects\SortingHat\obj\Debug\SortingHat.exe
+c:\users\harry\documents\visual studio 2015\Projects\SortingHat\obj\Debug\SortingHat.pdb
+C:\Users\Harry\documents\visual studio 2015\Projects\SortingHat\bin\Debug\SortingHat.exe.manifest
+C:\Users\Harry\documents\visual studio 2015\Projects\SortingHat\bin\Debug\SortingHat.application
+C:\Users\Harry\documents\visual studio 2015\Projects\SortingHat\obj\Debug\SortingHat.exe.manifest
+C:\Users\Harry\documents\visual studio 2015\Projects\SortingHat\obj\Debug\SortingHat.application
+C:\Users\Harry\documents\visual studio 2015\Projects\SortingHat\obj\Debug\SortingHat.csprojResolveAssemblyReference.cache

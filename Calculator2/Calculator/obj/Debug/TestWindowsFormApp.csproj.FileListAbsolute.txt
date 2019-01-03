@@ -1,0 +1,13 @@
+c:\users\harry\documents\visual studio 2015\Projects\TestWindowsFormApp\bin\Debug\TestWindowsFormApp.exe.config
+c:\users\harry\documents\visual studio 2015\Projects\TestWindowsFormApp\bin\Debug\TestWindowsFormApp.exe
+c:\users\harry\documents\visual studio 2015\Projects\TestWindowsFormApp\bin\Debug\TestWindowsFormApp.pdb
+c:\users\harry\documents\visual studio 2015\Projects\TestWindowsFormApp\obj\Debug\TestWindowsFormApp.csprojResolveAssemblyReference.cache
+c:\users\harry\documents\visual studio 2015\Projects\TestWindowsFormApp\obj\Debug\TestWindowsFormApp.Windows_Form_Start.resources
+c:\users\harry\documents\visual studio 2015\Projects\TestWindowsFormApp\obj\Debug\TestWindowsFormApp.Properties.Resources.resources
+c:\users\harry\documents\visual studio 2015\Projects\TestWindowsFormApp\obj\Debug\TestWindowsFormApp.csproj.GenerateResource.Cache
+c:\users\harry\documents\visual studio 2015\Projects\TestWindowsFormApp\obj\Debug\TestWindowsFormApp.exe
+c:\users\harry\documents\visual studio 2015\Projects\TestWindowsFormApp\obj\Debug\TestWindowsFormApp.pdb
+c:\users\harry\documents\visual studio 2015\Projects\TestWindowsFormApp\bin\Debug\TestWindowsFormApp.exe.manifest
+c:\users\harry\documents\visual studio 2015\Projects\TestWindowsFormApp\bin\Debug\TestWindowsFormApp.application
+c:\users\harry\documents\visual studio 2015\Projects\TestWindowsFormApp\obj\Debug\TestWindowsFormApp.exe.manifest
+c:\users\harry\documents\visual studio 2015\Projects\TestWindowsFormApp\obj\Debug\TestWindowsFormApp.application
